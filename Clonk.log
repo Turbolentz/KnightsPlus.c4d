@@ -1,0 +1,71 @@
+[18:39:26] Command line: 
+[18:39:26] /console /nonetwork ZombieCastle2.c4s
+[18:39:26] Clonk Rage 
+[18:39:26] Version: 4.9.10.7 [330]  win32
+[18:39:26] Registered to: Benjamin Lentz (DeutscherJ) [17930763]
+[18:39:26] Grafik wird geladen...
+[18:39:27] Command line: 
+[18:39:27] /console /nonetwork ZombieCastle2.c4s
+[18:39:27] Grafik wird geladen...
+[18:39:28] Szenario: ZombieCastle2.c4s
+[18:39:28] Szenario benutzt vorgegebene Objektdefinitionen.
+[18:39:28] Extras werden geladen...
+[18:39:28] Grafik wird geladen...
+[18:39:28] Objektdefinitionen werden geladen:
+[18:39:28] Objects.c4d...
+[18:39:28]   345 Definitionen geladen.
+[18:39:28] Knights.c4d...
+[18:39:29]   126 Definitionen geladen.
+[18:39:29] KnightsPlus.c4d...
+[18:39:30] WARNING: Unexpected value "StartCall"! (in section "Action", after line 185, KnightsPlus.c4d\Living.c4d\Knight.c4d\ActMap.txt)
+[18:39:30] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgMonstersKilled"
+[18:39:30] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgEggLeft"
+[18:39:30] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgEggsLeft"
+[18:39:30] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgMonsterLeft"
+[18:39:30] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgMonstersLeft"
+[18:39:30] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgEggMonstersLeft"
+[18:39:30] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgEggsMonstersLeft"
+[18:39:30]   111 Definitionen geladen.
+[18:39:30] Zombieland.c4d...
+[18:39:30]   21 Definitionen geladen.
+[18:39:30] ZombieCastle2.c4s...
+[18:39:30]   10 Definitionen geladen.
+[18:39:30] ERROR: declaration expected, but found '}' (ZombieCastle2.c4s\Script.c:41:2)
+[18:39:30] ZombieCastle2.c4s\System.c4g\Banner.c: string table entry not found: "MnuUnpack"
+[18:39:30] ZombieCastle2.c4s\System.c4g\Bausatz.c: string table entry not found: "TxtConstructions"
+[18:39:31] WARNING: Error getting Action Store: StartCall function 'StoreOpen' (KnightsPlus.c4d\Structural.c4d\Coach.c4d\Script.c)
+[18:39:31] C4AulScriptEngine linked - 43162 lines, 1 warning, 0 errors
+[18:39:31] Texturtabelle mit 55 Einträgen geladen.
+[18:39:31] 21 Texturen geladen.
+[18:39:31] 22 Materialien geladen.
+[18:39:31] Erstellung der Landschaft...
+[18:39:32] 99 Objekte platziert.
+[18:39:32] Lokale Musikdatei: ZombieCastle2.c4s\Music.c4g
+[18:39:32] Network: Synchronization (Frame 0) [PlrSave: 0]
+[18:39:32] Wiederherstellung: Zombies
+[18:39:32] Spiel gestartet.
+[18:39:32] Spielerbeitritt: Neuer Spieler
+[18:39:32] ERROR: Undefined function: WalkAnim (KnightsPlus.c4d\Living.c4d\Knight.c4d\Script.c)
+[18:39:32] ERROR: Undefined function: WalkAnim (KnightsPlus.c4d\Living.c4d\Knight.c4d\Script.c)
+[18:39:58] -> iWave=20
+[18:39:58]  = 20
+[18:41:03] -> iWave=0
+[18:41:03]  = 0
+[18:41:42] -> Clonk::CreateContents(FLNT,0,10)
+[18:41:42]  = Feuerstein #3766
+[18:41:42] -> Clonk::CreateContents(FLNT,0,10)
+[18:41:42]  = Feuerstein #3776
+[18:41:43] -> Clonk::CreateContents(FLNT,0,10)
+[18:41:43]  = Feuerstein #3786
+[18:41:43] -> Clonk::CreateContents(FLNT,0,10)
+[18:41:43]  = Feuerstein #3796
+[18:41:43] -> Clonk::CreateContents(FLNT,0,10)
+[18:41:43]  = Feuerstein #3806
+[18:41:43] -> Clonk::CreateContents(FLNT,0,10)
+[18:41:43]  = Feuerstein #3816
+[18:41:43] -> Clonk::CreateContents(FLNT,0,10)
+[18:41:43]  = Feuerstein #3826
+[18:42:05] Spieler Neuer Spieler eliminiert.
+[18:42:07] Spielerdatei New.c4p wird gespeichert...
+[18:42:09] Spiel deinitialisiert.
+[18:42:09] Engine heruntergefahren.
