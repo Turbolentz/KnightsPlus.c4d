@@ -1,63 +1,68 @@
-[11:57:44] Command line: 
-[11:57:44] /console /nonetwork ZombieCastle2.c4s
-[11:57:44] Clonk Rage 
-[11:57:44] Version: 4.9.10.7 [330]  win32
-[11:57:44] Registered to: Benjamin Lentz (DeutscherJ) [17930763]
-[11:57:44] Grafik wird geladen...
-[11:57:45] Command line: 
-[11:57:45] /console /nonetwork ZombieCastle2.c4s
-[11:57:45] Grafik wird geladen...
-[11:57:45] Szenario: ZombieCastle2.c4s
-[11:57:45] Szenario benutzt vorgegebene Objektdefinitionen.
-[11:57:45] Extras werden geladen...
-[11:57:45] Grafik wird geladen...
-[11:57:45] Objektdefinitionen werden geladen:
-[11:57:45] Objects.c4d...
-[11:57:46]   345 Definitionen geladen.
-[11:57:46] Knights.c4d...
-[11:57:47]   126 Definitionen geladen.
-[11:57:47] KnightsPlus.c4d...
-[11:57:47] WARNING: Unexpected value "StartCall"! (in section "Action", after line 185, KnightsPlus.c4d\Living.c4d\Knight.c4d\ActMap.txt)
-[11:57:47] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgMonstersKilled"
-[11:57:47] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgEggLeft"
-[11:57:47] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgEggsLeft"
-[11:57:47] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgMonsterLeft"
-[11:57:47] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgMonstersLeft"
-[11:57:47] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgEggMonstersLeft"
-[11:57:47] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgEggsMonstersLeft"
-[11:57:47]   111 Definitionen geladen.
-[11:57:47] Zombieland.c4d...
-[11:57:47]   21 Definitionen geladen.
-[11:57:47] Zombiesounds.c4d...
-[11:57:47]   0 Definitionen geladen.
-[11:57:47] ZombieCastle2.c4s...
-[11:57:48]   10 Definitionen geladen.
-[11:57:48] ZombieCastle2.c4s\System.c4g\Banner.c: string table entry not found: "MnuUnpack"
-[11:57:48] ZombieCastle2.c4s\System.c4g\Bausatz.c: string table entry not found: "TxtConstructions"
-[11:57:48] WARNING: Error getting Action Store: StartCall function 'StoreOpen' (KnightsPlus.c4d\Structural.c4d\Coach.c4d\Script.c)
-[11:57:48] C4AulScriptEngine linked - 43233 lines, 1 warning, 0 errors
-[11:57:48] Texturtabelle mit 55 Einträgen geladen.
-[11:57:48] 21 Texturen geladen.
-[11:57:48] 22 Materialien geladen.
-[11:57:48] Erstellung der Landschaft...
-[11:57:49] 99 Objekte platziert.
-[11:57:49] Lokale Musikdatei: ZombieCastle2.c4s\Music.c4g
-[11:57:49] Network: Synchronization (Frame 0) [PlrSave: 0]
-[11:57:49] Wiederherstellung: Zombies
-[11:57:49] Spiel gestartet.
-[11:57:49] Spielerbeitritt: Neuer Spieler
-[11:57:49] Spielerbeitritt: Neuer Spieler
-[11:57:49] ERROR: Undefined function: WalkAnim (KnightsPlus.c4d\Living.c4d\Knight.c4d\Script.c)
-[11:57:49] ERROR: Undefined function: WalkAnim (KnightsPlus.c4d\Living.c4d\Knight.c4d\Script.c)
-[11:58:10] -> Ritter::Kill()
-[11:58:10]  = true
-[11:58:15] -> Ritter::Kill()
-[11:58:15]  = true
-[11:58:44] -> Ritter::Revive()
-[11:58:44]  = 1
-[11:58:46] -> Ritter::Revive()
-[11:58:46]  = 1
-[11:58:47] -> Ritter::Revive()
-[11:58:47]  = 1
-[11:59:08] Spiel deinitialisiert.
-[11:59:08] Engine heruntergefahren.
+[14:37:47] Command line: 
+[14:37:47] /fullscreen /nosplash
+[14:37:47] Clonk Rage 
+[14:37:47] Version: 4.9.10.7 [330]  win32
+[14:37:47] No valid key file found.
+[14:37:47] Grafik wird geladen...
+[14:38:06] WARNING: Unexpected character (']'): value ignored (in line 0, C:\Users\Benjamin\Documents\GitHub\KnightsPlus.c4d\Tournament.c4s\Scenario.txt)
+[14:38:06] WARNING: Unexpected value "EnableSurrender"! (in section "Game", after line 9, C:\Users\Benjamin\Documents\GitHub\KnightsPlus.c4d\zzz DJRitterplatz2.c4s\Scenario.txt)
+[14:38:17] WARNING: Unexpected character (']'): value ignored (in line 0, C:\Users\Benjamin\Documents\GitHub\KnightsPlus.c4d\Tournament.c4s\Scenario.txt)
+[14:38:17] WARNING: Unexpected value "EnableSurrender"! (in section "Game", after line 9, C:\Users\Benjamin\Documents\GitHub\KnightsPlus.c4d\zzz DJRitterplatz2.c4s\Scenario.txt)
+[14:38:18] Szenario: C:\Users\Benjamin\Documents\GitHub\KnightsPlus.c4d\ZombieCastle3.c4s
+[14:38:18] Szenario benutzt vorgegebene Objektdefinitionen.
+[14:38:18] Extras werden geladen...
+[14:38:18] Grafik wird geladen...
+[14:38:18] Objektdefinitionen werden geladen:
+[14:38:18] Objects.c4d...
+[14:38:18]   345 Definitionen geladen.
+[14:38:18] Knights.c4d...
+[14:38:19]   126 Definitionen geladen.
+[14:38:19] KnightsPlus.c4d...
+[14:38:19] WARNING: Unexpected value "StartCall"! (in section "Action", after line 185, KnightsPlus.c4d\Living.c4d\Knight.c4d\ActMap.txt)
+[14:38:19] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgMonstersKilled"
+[14:38:19] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgEggLeft"
+[14:38:19] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgEggsLeft"
+[14:38:19] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgMonsterLeft"
+[14:38:19] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgMonstersLeft"
+[14:38:19] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgEggMonstersLeft"
+[14:38:19] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgEggsMonstersLeft"
+[14:38:19]   111 Definitionen geladen.
+[14:38:19] Zombieland.c4d...
+[14:38:19]   21 Definitionen geladen.
+[14:38:19] Zombiesounds2.c4d...
+[14:38:19]   0 Definitionen geladen.
+[14:38:19] ZombieCastle3.c4s...
+[14:38:19]   10 Definitionen geladen.
+[14:38:19] ZombieCastle3.c4s\System.c4g\Banner.c: string table entry not found: "MnuUnpack"
+[14:38:19] ZombieCastle3.c4s\System.c4g\Bausatz.c: string table entry not found: "TxtConstructions"
+[14:38:19] WARNING: Error getting Action Store: StartCall function 'StoreOpen' (KnightsPlus.c4d\Structural.c4d\Coach.c4d\Script.c)
+[14:38:19] C4AulScriptEngine linked - 43250 lines, 1 warning, 0 errors
+[14:38:19] Texturtabelle mit 55 Einträgen geladen.
+[14:38:19] 21 Texturen geladen.
+[14:38:19] 22 Materialien geladen.
+[14:38:19] Erstellung der Landschaft...
+[14:38:20] 78 Objekte platziert.
+[14:38:20] Lokale Musikdatei: ZombieCastle3.c4s\Music.c4g
+[14:38:20] Musik: TheRasmus-InTheShadows.mid
+[14:38:20] Network: Synchronization (Frame 0) [PlrSave: 0]
+[14:38:20] Wiederherstellung: Zombies
+[14:38:20] Spiel gestartet.
+[14:38:20] Spielerbeitritt: Gamepad
+[14:38:20] Spielerbeitritt: Spieler2
+[14:39:21] Welle 1 überstanden, bereitmachen für nächste
+[14:40:44] Welle 2 überstanden, bereitmachen für nächste
+[14:42:14] Welle 3 überstanden, bereitmachen für nächste
+[14:42:30] Musik: Komplizierte Sache.mid
+[14:43:52] Welle 4 überstanden, bereitmachen für nächste
+[14:44:00] Musik: DeepPurple-Burn.mid
+[14:45:21] ERROR: Object call: No function "Hurt" in object "Leiche #21607"!
+[14:45:21]  by: Schadenverteilen() (obj Jäger #20240) (Zombieland.c4d\Zombies.c4d\Jäger.c4d\Script.c:84)
+[14:45:48] [Cnf] Abbruch: Runde abbrechen?
+[14:45:50] Spieler Gamepad gelöscht.
+[14:45:50] Spieler Spieler2 gelöscht.
+[14:45:50] Spiel deinitialisiert.
+[14:45:50] Grafik wird geladen...
+[14:45:50] WARNING: Unexpected character (']'): value ignored (in line 0, C:\Users\Benjamin\Documents\GitHub\KnightsPlus.c4d\Tournament.c4s\Scenario.txt)
+[14:45:50] WARNING: Unexpected value "EnableSurrender"! (in section "Game", after line 9, C:\Users\Benjamin\Documents\GitHub\KnightsPlus.c4d\zzz DJRitterplatz2.c4s\Scenario.txt)
+[14:46:04] Spiel deinitialisiert.
+[14:46:04] Engine heruntergefahren.
