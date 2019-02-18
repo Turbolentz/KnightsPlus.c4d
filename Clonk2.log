@@ -1,0 +1,51 @@
+[21:17:58] Command line: 
+[21:17:58] /console /nonetwork ZombieCastle3.c4s
+[21:17:58] Clonk Rage 
+[21:17:58] Version: 4.9.10.7 [330]  win32
+[21:17:58] No valid key file found.
+[21:17:58] Grafik wird geladen...
+[21:17:59] Command line: 
+[21:17:59] /console /nonetwork ZombieCastle3.c4s
+[21:17:59] Grafik wird geladen...
+[21:17:59] Szenario: ZombieCastle3.c4s
+[21:17:59] Szenario benutzt vorgegebene Objektdefinitionen.
+[21:17:59] Extras werden geladen...
+[21:17:59] Grafik wird geladen...
+[21:17:59] Objektdefinitionen werden geladen:
+[21:17:59] Objects.c4d...
+[21:17:59]   345 Definitionen geladen.
+[21:17:59] Knights.c4d...
+[21:18:00]   126 Definitionen geladen.
+[21:18:00] KnightsPlus.c4d...
+[21:18:00] WARNING: Unexpected value "StartCall"! (in section "Action", after line 185, KnightsPlus.c4d\Living.c4d\Knight.c4d\ActMap.txt)
+[21:18:00] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgMonstersKilled"
+[21:18:00] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgEggLeft"
+[21:18:00] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgEggsLeft"
+[21:18:00] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgMonsterLeft"
+[21:18:00] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgMonstersLeft"
+[21:18:00] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgEggMonstersLeft"
+[21:18:00] KnightsPlus.c4d\Rules.c4d\CrystalClear.c4d\Script.c: string table entry not found: "MsgEggsMonstersLeft"
+[21:18:01]   111 Definitionen geladen.
+[21:18:01] Zombieland.c4d...
+[21:18:01]   21 Definitionen geladen.
+[21:18:01] Zombiesounds2.c4d...
+[21:18:01]   0 Definitionen geladen.
+[21:18:01] ZombieCastle3.c4s...
+[21:18:01]   10 Definitionen geladen.
+[21:18:01] ZombieCastle3.c4s\System.c4g\Banner.c: string table entry not found: "MnuUnpack"
+[21:18:01] ZombieCastle3.c4s\System.c4g\Bausatz.c: string table entry not found: "TxtConstructions"
+[21:18:02] WARNING: Error getting Action Store: StartCall function 'StoreOpen' (KnightsPlus.c4d\Structural.c4d\Coach.c4d\Script.c)
+[21:18:02] C4AulScriptEngine linked - 43254 lines, 1 warning, 0 errors
+[21:18:02] Texturtabelle mit 55 Einträgen geladen.
+[21:18:02] 21 Texturen geladen.
+[21:18:02] 22 Materialien geladen.
+[21:18:02] Erstellung der Landschaft...
+[21:18:02] Objects.txt: Object #212 has invalid sorting category 11!
+[21:18:02] Objects.txt: Object #209 has invalid sorting category 11!
+[21:18:02] 77 Objekte platziert.
+[21:18:02] Lokale Musikdatei: ZombieCastle3.c4s\Music.c4g
+[21:18:02] Network: Synchronization (Frame 0) [PlrSave: 0]
+[21:18:02] Wiederherstellung: Zombies
+[21:18:02] Spiel gestartet.
+[21:18:03] Spiel deinitialisiert.
+[21:18:03] Engine heruntergefahren.
